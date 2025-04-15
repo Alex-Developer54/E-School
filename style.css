@@ -1,0 +1,36 @@
+.custom-light-green{
+    background-color: rgba(240, 255, 240, 1);
+}
+
+.E-School-color {
+  color: rgba(86, 84, 140, 1);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.common-bg-color{
+  background: rgba(33,181,115,1);
+}
+
+.common-text-color{
+  color: rgba(33, 181, 115, 1);
+}
+
+.grid-bg-color{
+  background: rgba(248, 255, 251, 1);
+}
+
+.grid-p-text-color{
+  color: rgba(88, 88, 89, 1);
+}
+
+.grid2-p-text-color{
+  color: rgba(88, 88, 89, 1);
+}
+
+.footer-bg{
+  background: rgba(40, 37, 49, 1);
+}
+
+.footer-p-color{
+  color: rgba(205, 205, 205, 1);
+}
